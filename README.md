@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karandeep Singh
 - 👀 I’m interested in problem solving mostly...sometimes just coding random stuff
 - 🌱 I’m currently learning flutter
-- 💞️ Currently working on [The Journal]("https://the-journal.in")
+- 💞️ Currently working on [The Journal](https://the-journal.in)
 - 📫 How to reach me karansinghk0@gmail.com
 
 <!---
