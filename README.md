@@ -4,7 +4,9 @@
 - 🏗️ Currently working on Expense Manager
 - Other Projects
   - [The Journal](https://the-journal.in)
-- 📫 How to reach me karansinghk0@gmail.com
+- 📫 How to reach me
+  - 📫 karansinghk0@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/karandeepsingh2810)
 
 <!---
 Karan0009/Karan0009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
